@@ -1,0 +1,7 @@
+hai aku echa
+
+sekarang kita akan sudah tahu kondisi-kondisi file dalam Git. Selanjutnya, silahkan
+ubah kondisi file readme.txt tadi menjadi staged dengan perintah git add.
+
+Setelah itu, ubah kondisi file tersebut ke commited agar semua perubahan disimpan
+oleh Git. Gunakan perintah berikut
