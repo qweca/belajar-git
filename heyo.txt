@@ -1,0 +1,12 @@
+Melihat Perbandingan Revisi dengan Git Diff
+Kita sudah belajar cara melihat log revisi di repositori. Sekarang kita kan peljari
+perintah git diff, fungsinya untuk melihat perbedaan perubahan di revisi. Gunakan
+perintah berikut ini untuk melihat perubahan yang dilakukan pada revisi tertentu.
+
+Lihatlah hasil di atas, simbol plus (+) artinya kode yang ditambahkan. Sedangkan
+kalau ada kode yang dihapus simbolnya akan menggunakan minus (-).
+Apa bila kita melakukan banyak perubahan, maka akan banyak sekali tampil output.
+Karena itu, kita mungkin hanya perlu melihat perubahan untuk file tertentu saja.
+Untuk melihat perbandingan perubahan pada file tertentu, gunakan perintah
+berukut. Contoh : lakukan modifikasi file readme.txt, lalu ketikan perintah git diff
+index.html.
